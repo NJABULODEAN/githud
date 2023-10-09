@@ -1,0 +1,52 @@
+.container {
+  border: 3px solid blue;
+  height: 400px;
+  width: 250px;
+  background-color: blue;
+  border-radius: 8px;
+}
+input {
+  border: 2px solid black;
+  height: 80px;
+  text-align: end;
+  font-weight: bold;
+  width: 240px;
+  font-size: 30px;
+  color: black;
+}
+.box2 {
+  position: relative;
+  top: 20px;
+}
+button {
+  width: 60px;
+  height: 40px;
+  column-gap: 10px;
+  background-color: gray;
+  color: black;
+  font-weight: bold;
+  border-radius: 8px;
+  position: relative;
+  left: 20px;
+  cursor: pointer;
+}
+.row1 {
+  position: relative;
+  bottom: 10px;
+}
+.row6 {
+  position: relative;
+  top: 40px;
+}
+.row5 {
+  position: relative;
+  top: 30px;
+}
+.row4 {
+  position: relative;
+  top: 20px;
+}
+.row3 {
+  position: relative;
+  top: 10px;
+}
