@@ -1,0 +1,22 @@
+input {
+  border: 2px solid black;
+}
+button {
+  height: 30px;
+  background-color: greenyellow;
+  border: 1px solid greenyellow;
+  position: relative;
+  top: 40px;
+}
+button:hover {
+  background-color: black;
+  cursor: pointer;
+  color: blue;
+}
+button:focus {
+  color: red;
+  background-color: white;
+}
+a {
+  text-decoration: none;
+}

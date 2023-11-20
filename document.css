@@ -1,0 +1,16 @@
+button {
+  width: 200px;
+  height: 30px;
+  background-color: blue;
+  border: 1px solid blue;
+}
+.Btn {
+  position: relative;
+  left: 300px;
+  cursor: pointer;
+}
+.Btn-1 {
+  position: relative;
+  right: 200px;
+  cursor: pointer;
+}
